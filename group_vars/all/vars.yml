@@ -2,4 +2,5 @@
 username: ansible
 vmsize: Standard_D1
 resource: ansibleresource
-password: "{{ vault_password }}"
+password: zippyops@123
+#password: "{{ vault_password }}"
